@@ -10,10 +10,10 @@ Zoned Decimal
 1110110
 
 1: 1110		1
-2: 1111		0   samen 5
-4: 1110		4
+2: 1110		2   samen 3
+4: 0110		0
 
-Bit 5 is verkeerd
+Bit 3 is verkeerd
 
-1110010
+1101 1000
 hamming-opgave

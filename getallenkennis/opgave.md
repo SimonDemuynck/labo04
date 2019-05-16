@@ -5,3 +5,5 @@
 4: 1110		4
 
 Bit 5 is verkeerd
+
+1110010
